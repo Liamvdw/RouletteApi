@@ -1,0 +1,111 @@
+
+//  These are all your Guess Bets:
+//  Even = 1,
+//  Odd = 2,
+//  OneToEighteen = 3,
+//  NineteenToThirtySix = 4,
+//  Red = 5,
+//  Black = 6,
+//  FirstTwelve = 7,
+//  SecondTwelve = 8,
+//  ThirdTwelve = 9
+ 
+//Even
+//Please Note: Must have a total amount the first time you execute then on your next insert it can be set to 0 or you can leave it as is.
+{
+    "id": 0,
+    "guessBet": 1, 
+    "amount": 100,
+    "totalAmount": 1000, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //Odd
+  {
+    "id": 0,
+    "guessBet": 2, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //OneToEighteen
+  {
+    "id": 0,
+    "guessBet": 3, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //NineteenToThirtySix
+  {
+    "id": 0,
+    "guessBet": 4, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //Red
+  {
+    "id": 0,
+    "guessBet": 5, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //Black
+  {
+    "id": 0,
+    "guessBet": 6, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //FirstTwelve
+  {
+    "id": 0,
+    "guessBet": 7, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //SecondTwelve
+  {
+    "id": 0,
+    "guessBet": 8, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
+
+  //ThirdTwelve
+  {
+    "id": 0,
+    "guessBet": 9, 
+    "amount": 100,
+    "totalAmount": 0, 
+    "isWinner": 0,
+    "previousSpins": 0,
+    "createdDate": "2022-05-15T10:48:34.805Z"
+  }
